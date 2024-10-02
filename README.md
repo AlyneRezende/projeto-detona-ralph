@@ -1,2 +1,3 @@
-# detona-ralph
- Jogo Detona Ralph com JavaScript
+# Detona Ralph Game
+ 
+## A game inspired by Wreck-It Ralph created using JavaScript.
